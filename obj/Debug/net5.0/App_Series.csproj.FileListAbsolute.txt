@@ -1,0 +1,16 @@
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.exe
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.deps.json
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.runtimeconfig.json
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.runtimeconfig.dev.json
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.dll
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\ref\App_Series.dll
+F:\DIO\NetFundamentals\App_Series\bin\Debug\net5.0\App_Series.pdb
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.csproj.AssemblyReference.cache
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.AssemblyInfoInputs.cache
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.AssemblyInfo.cs
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.csproj.CoreCompileInputs.cache
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.dll
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\ref\App_Series.dll
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.pdb
+F:\DIO\NetFundamentals\App_Series\obj\Debug\net5.0\App_Series.genruntimeconfig.cache
